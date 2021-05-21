@@ -1,0 +1,20 @@
+{
+  "name": "kafkademo",
+  "version": "1.0.0",
+  "description": "Demonstrating use of Kafka using Node and Docker # Kafka setup ## spin zookeeper",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimaruThagna/KafkaDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimaruThagna/KafkaDemo/issues"
+  },
+  "homepage": "https://github.com/KimaruThagna/KafkaDemo#readme"
+}
