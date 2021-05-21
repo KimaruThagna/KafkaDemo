@@ -1,6 +1,8 @@
 # KafkaDemo
 Demonstrating use of Kafka using Node and Docker
-# Kafka setup
+# Kafka setup 
+One can use the docker compose (`docker-compose up --build`)to spin up everything or spin the services individually
+
 ## spin zookeeper
 Run the docker command
 ```

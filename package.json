@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KimaruThagna/KafkaDemo/issues"
   },
-  "homepage": "https://github.com/KimaruThagna/KafkaDemo#readme"
+  "homepage": "https://github.com/KimaruThagna/KafkaDemo#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
 }
