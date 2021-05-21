@@ -16,7 +16,7 @@ async function produce(){
         //A-M partition 0 , N-Z partition 1 
         const partition = msg[0] < "N" ? 0 : 1;
         const result =  await producer.send({
-            "topic": "Users",
+            "topic": "Lexicon",
             "messages": [
                 {
                     "value": msg,
